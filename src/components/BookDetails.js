@@ -11,4 +11,4 @@ const BookDetails = ({ book }) => {
    );
 }
  
-export default BookDetails;
+export default BookDetails; 
